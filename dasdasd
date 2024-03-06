@@ -1,0 +1,47 @@
+[33mcommit b33f3e23a923eaeeeccc135906852343d7b73790[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: My Name <me@example.com>
+Date:   Wed Mar 6 16:45:56 2024 +1000
+
+    Added welcome message
+
+[33mcommit d990ef9f52bd5d45b39077c81152785fcb9acf85[m
+Author: My Name <me@example.com>
+Date:   Wed Mar 6 16:43:45 2024 +1000
+
+    Added welcome message
+
+[33mcommit 6a1a0d4cffe2e938203a9f4ef7684666cf8536ab[m
+Author: My Name <me@example.com>
+Date:   Wed Mar 6 16:39:28 2024 +1000
+
+    Added welcome message
+
+[33mcommit 1557a761323a7221d8d06f8fbfea58367770deda[m
+Author: My Name <me@example.com>
+Date:   Wed Mar 6 16:37:06 2024 +1000
+
+    Initial commit
+
+[33mcommit ad056073d9371248d8115b99e79d0e5b15e354a0[m
+Author: My Name <me@example.com>
+Date:   Wed Mar 6 16:34:34 2024 +1000
+
+    Added project message
+
+[33mcommit 4f1547f0d85517319b767f774f2bd5088b73b6be[m[33m ([m[1;32mproject-message[m[33m, [m[1;32mfix-typo[m[33m)[m
+Author: My Name <me@example.com>
+Date:   Wed Mar 6 16:32:23 2024 +1000
+
+    <this is a message>
+
+[33mcommit 872774a1910f8dfce3bb2becae3984ce6979356a[m
+Author: My Name <me@example.com>
+Date:   Wed Mar 6 16:29:52 2024 +1000
+
+    <message>
+
+[33mcommit bc8262ca0e2309681cf9e24b0946139a0332872a[m
+Author: My Name <me@example.com>
+Date:   Wed Mar 6 16:22:22 2024 +1000
+
+    Initial commit
